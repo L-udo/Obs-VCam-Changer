@@ -1,0 +1,15 @@
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.AssemblyInfoInputs.cache
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.AssemblyInfo.cs
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.csproj.CoreCompileInputs.cache
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\bin\Release\net6.0\ObsCam-Changer.exe
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\bin\Release\net6.0\ObsCam-Changer.deps.json
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\bin\Release\net6.0\ObsCam-Changer.runtimeconfig.json
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\bin\Release\net6.0\ObsCam-Changer.dll
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\bin\Release\net6.0\ref\ObsCam-Changer.dll
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\bin\Release\net6.0\ObsCam-Changer.pdb
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.csproj.AssemblyReference.cache
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.dll
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ref\ObsCam-Changer.dll
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.pdb
+C:\Users\almon\source\repos\ObsCam-Changer\ObsCam-Changer\obj\Release\net6.0\ObsCam-Changer.genruntimeconfig.cache
