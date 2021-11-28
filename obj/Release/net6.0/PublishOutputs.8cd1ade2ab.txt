@@ -1,0 +1,5 @@
+C:\Users\almon\Downloads\testry\ObsCam-Changer.exe
+C:\Users\almon\Downloads\testry\ObsCam-Changer.dll
+C:\Users\almon\Downloads\testry\ObsCam-Changer.deps.json
+C:\Users\almon\Downloads\testry\ObsCam-Changer.runtimeconfig.json
+C:\Users\almon\Downloads\testry\ObsCam-Changer.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5eXZKTXKM6d4yraK8qq0KtAcHAYQn6PaZl1tg63T8ySxQZ+7bBdYe9hMRBX0p7YAc0CcAX5Z32+iL/nQRTtqFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almon\\Downloads\\Obs-VCam-Changer-main\\Obs-VCam-Changer-main\\ObsCam-Changer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.0\\microsoft.netcore.app.runtime.win-x86.6.0.0.nupkg.sha512",
+    "C:\\Users\\almon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.0.nupkg.sha512",
+    "C:\\Users\\almon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x86.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

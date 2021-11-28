@@ -1,7 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {},
+    "net6.0/win-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
@@ -11,13 +12,13 @@
     "C:\\Users\\almon\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.3",
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\almon\\Downloads\\Obs-VCam-Changer-main\\Obs-VCam-Changer-main\\ObsCam-Changer.csproj",
       "projectName": "ObsCam-Changer",
       "projectPath": "C:\\Users\\almon\\Downloads\\Obs-VCam-Changer-main\\Obs-VCam-Changer-main\\ObsCam-Changer.csproj",
       "packagesPath": "C:\\Users\\almon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\almon\\Downloads\\Obs-VCam-Changer-main\\Obs-VCam-Changer-main\\obj\\",
+      "outputPath": "C:\\Users\\almon\\Downloads\\Obs-VCam-Changer-main\\Obs-VCam-Changer-main\\obj\\publish\\win-x86\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\almon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +56,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x86",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x86",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+            "version": "[6.0.0, 6.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x86": {
+        "#import": []
       }
     }
   }

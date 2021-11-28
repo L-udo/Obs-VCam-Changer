@@ -7,6 +7,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <ApplicationIcon>pngaaa.com-547702.ico</ApplicationIcon>
+    <ApplicationManifest>app1.manifest</ApplicationManifest>
+    <Description></Description>
+    <FileVersion>1.0.3.0</FileVersion>
+    <Version>1.0.3</Version>
+    <PackageId>$(AssemblyName)</PackageId>
+    <Authors>$(AssemblyName)</Authors>
+    <Product>I c u Kite</Product>
   </PropertyGroup>
 
   <ItemGroup>
