@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+// KittyKite was here
 using System;
 using Microsoft.Win32;
 using System.Security.Principal;
