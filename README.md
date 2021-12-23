@@ -8,10 +8,11 @@ Future updates
 # - How to
 - Run this application as Administrator.
 
-- pick a camera name from the list below or type your own:
+- Select a camera to change the name of.
 
-- hit enter once you have picked a camera name.
-  away you go!
+- Pick a camera name from the list below or type your own:
+
+- Away you go!
 
 
 ## Camera list
