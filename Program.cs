@@ -1,5 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-// KittyKite was here
+// See https://aka.ms/new-console-template for more information
+
 using System;
 using Microsoft.Win32;
 using System.Security.Principal;
@@ -75,7 +75,6 @@ while (true) {
     Console.WriteLine("\n");
     key.Close();
     Console.Clear();
-
 
 }
 
