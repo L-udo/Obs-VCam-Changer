@@ -4,6 +4,10 @@ using System;
 using Microsoft.Win32;
 using System.Security.Principal;
 
+Console.ForegroundColor = ConsoleColor.Magenta;
+Console.WindowHeight = 10;
+Console.WindowWidth = 50;
+
 bool isElevated;
 using (WindowsIdentity identity = WindowsIdentity.GetCurrent())
 {
