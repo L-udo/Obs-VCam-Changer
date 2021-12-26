@@ -1,6 +1,9 @@
 # Obs-VCam-Changer
 ### Obs virtual camera name changer
 Future updates
+- Adding support to change properties of Virtual Audio Devices Specifically these two
+(Oculus virtual Audio Device, Virtual Desktop Audio)
+
 - Gui
 - Support for multiple cameras from the Obs Virtual camera plugin
 
