@@ -23,7 +23,7 @@ on:
 jobs:
   analyze:
     name: Analyze
-    runs-on: Windows-10
+    runs-on: Windows
     permissions:
       actions: read
       contents: read
