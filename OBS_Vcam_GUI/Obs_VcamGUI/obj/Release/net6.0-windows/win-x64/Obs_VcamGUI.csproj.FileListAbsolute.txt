@@ -1,0 +1,17 @@
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\bin\Release\net6.0-windows\win-x64\Obs_VcamGUI.exe
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\bin\Release\net6.0-windows\win-x64\Obs_VcamGUI.deps.json
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\bin\Release\net6.0-windows\win-x64\Obs_VcamGUI.runtimeconfig.json
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\bin\Release\net6.0-windows\win-x64\Obs_VcamGUI.dll
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\bin\Release\net6.0-windows\win-x64\ref\Obs_VcamGUI.dll
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\bin\Release\net6.0-windows\win-x64\Obs_VcamGUI.pdb
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.Form1.resources
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.Properties.Resources.resources
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.csproj.GenerateResource.cache
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.AssemblyInfoInputs.cache
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.AssemblyInfo.cs
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.csproj.CoreCompileInputs.cache
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.dll
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\ref\Obs_VcamGUI.dll
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.pdb
+C:\Users\almon\source\repos\Obs_VcamGUI\Obs_VcamGUI\obj\Release\net6.0-windows\win-x64\Obs_VcamGUI.genruntimeconfig.cache
