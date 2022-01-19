@@ -4,8 +4,8 @@ Future updates
 - Adding support to change properties of Virtual Audio Devices Specifically these two
 (Oculus virtual Audio Device, Virtual Desktop Audio)
 
-- Gui
-- Support for multiple cameras from the Obs Virtual camera plugin
+- Gui (**DONE!** Latest release)
+- Support for multiple cameras from the Obs Virtual camera plugin (**DONE!** Lastest release)
 
 
 # - How to
