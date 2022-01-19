@@ -9,7 +9,6 @@ Future updates
 
 
 # - How to
-- Run this application as Administrator.
 
 - Select a camera to change the name of.
 
