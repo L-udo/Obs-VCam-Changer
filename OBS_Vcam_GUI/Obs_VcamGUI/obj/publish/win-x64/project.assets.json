@@ -14,11 +14,11 @@
   "project": {
     "version": "1.3.3",
     "restore": {
-      "projectUniqueName": "C:\\Users\\almon\\source\\repos\\Obs_VcamGUI\\Obs_VcamGUI\\Obs_VcamGUI.csproj",
+      "projectUniqueName": "C:\\Users\\almon\\OneDrive\\Documents\\GitHub\\Obs-VCam-Changer\\OBS_Vcam_GUI\\Obs_VcamGUI\\Obs_VcamGUI.csproj",
       "projectName": "Obs_VcamGUI",
-      "projectPath": "C:\\Users\\almon\\source\\repos\\Obs_VcamGUI\\Obs_VcamGUI\\Obs_VcamGUI.csproj",
+      "projectPath": "C:\\Users\\almon\\OneDrive\\Documents\\GitHub\\Obs-VCam-Changer\\OBS_Vcam_GUI\\Obs_VcamGUI\\Obs_VcamGUI.csproj",
       "packagesPath": "C:\\Users\\almon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\almon\\source\\repos\\Obs_VcamGUI\\Obs_VcamGUI\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\Users\\almon\\OneDrive\\Documents\\GitHub\\Obs-VCam-Changer\\OBS_Vcam_GUI\\Obs_VcamGUI\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\almon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[6.0.0, 6.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

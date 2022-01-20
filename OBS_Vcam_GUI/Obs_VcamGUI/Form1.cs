@@ -23,7 +23,7 @@ namespace Obs_VcamGUI
                 RegistryKey camaddr = Registry.LocalMachine.OpenSubKey(cam, true);
                 if (camaddr == null)
                 {
-                    cam_nm = "ERR-- Camera Not found";
+                    cam_nm = "Kite says 'Wot camera?'";
                     camera_nms.Add(cam_nm);
                 }
 
