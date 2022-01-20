@@ -15,7 +15,7 @@ namespace Obs_VcamGUI
 
         public Form1()
         {
-            string cam_nm = "";
+            string cat_kot = "";
 
             List<string> camera_nms = new List<string>();
             foreach (string cam in cameras)
@@ -23,14 +23,14 @@ namespace Obs_VcamGUI
                 RegistryKey camaddr = Registry.LocalMachine.OpenSubKey(cam, true);
                 if (camaddr == null)
                 {
-                    cam_nm = "ERR-- Camera Not found";
-                    camera_nms.Add(cam_nm);
+                    cat_kot = "ERR-- Camera Not found";
+                    camera_nms.Add(cat_kot);
                 }
 
                 else if (camaddr != null)
                 {
-                    cam_nm = Convert.ToString(camaddr.GetValue("FriendlyName"));
-                    camera_nms.Add(cam_nm);
+                    cat_kot = Convert.ToString(camaddr.GetValue("FriendlyName"));
+                    camera_nms.Add(cat_kot);
                 }
 
                
@@ -64,7 +64,7 @@ namespace Obs_VcamGUI
                 label1.Text = $"New Name: {key.GetValue("FriendlyName")}";
                 key.Close();
 
-                string cam_nm = "";
+                string cat_kot = "";
 
                 List<string> camera_nms2 = new List<string>();
                 foreach (string cam in cameras)
@@ -72,15 +72,15 @@ namespace Obs_VcamGUI
                     RegistryKey camaddr = Registry.LocalMachine.OpenSubKey(cam, true);
                     if (camaddr == null)
                     {
-                        cam_nm = "ERR-- Camera Not found";
+                        cat_kot = "ERR-- Camera Not found";
                     }
 
                     else if (camaddr != null)
                     {
-                        cam_nm = Convert.ToString(camaddr.GetValue("FriendlyName"));
+                        cat_kot = Convert.ToString(camaddr.GetValue("FriendlyName"));
                     }
 
-                    camera_nms2.Add(cam_nm);
+                    camera_nms2.Add(cat_kot);
                 }
                 listBox1.DataSource = camera_nms2;
 
