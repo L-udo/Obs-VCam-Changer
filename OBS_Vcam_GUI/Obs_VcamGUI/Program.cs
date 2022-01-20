@@ -5,6 +5,7 @@ namespace Obs_VcamGUI
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        //🐾🐾🐾🐾🐾🐾 are those cat prints???
         [STAThread]
         static void Main()
         {
