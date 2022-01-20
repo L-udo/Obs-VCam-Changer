@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/win-x64": {
+      "Obs_VcamGUI/1.3.3": {
+        "runtime": {
+          "Obs_VcamGUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Obs_VcamGUI/1.3.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
