@@ -32,8 +32,8 @@ USB Video Device
 
 
 # **Please note-**
-This is a Windows 64x Application only
-it Will not function in any manner virtualised in wine or other such applications.
+This is a **Windows 64x Application** only,
+it Will **NOT** function in any manner virtualised in wine or other such applications.
 I will be working towards MacOS & Linux support in the future,
 but due to the drastically different ways each operating system stores the camera data, I will need to put a bit of reasearch into finding out how to edit it.
 thankyou
