@@ -12,6 +12,8 @@ Future updates
 
 - Download the latest compiled version of Obs-VCam [Here](https://github.com/LudoDash/Obs-VCam-Changer/releases)
 
+- Unzip and launch the application.
+
 - Select a camera to change the name of.
 
 - Pick a camera name from the list below or type your own:
