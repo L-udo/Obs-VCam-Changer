@@ -3,15 +3,50 @@
 Future updates
 - Adding support to change properties of Virtual Audio Devices Specifically these two
 (Oculus virtual Audio Device, Virtual Desktop Audio)
-
-- Gui (**DONE!** Latest release)
-- Support for multiple cameras from the Obs Virtual camera plugin (**DONE!** Lastest release)
-
-
+- Adding numbering to cameras
 
 #### If you need help:
 - Please open a new[Plz only one] issue on github.
 - I dont respond quickly if you contact me via my socials!
+
+
+# Features:
+```
+- Support for virtual camera plugin for OBS
+- Support for inbuilt virtual camera on OBS
+- Gui interface
+- Windows ONLY
+
+```
+
+#Output:
+
+```
+~ New Name:<name> 
+```
+> (This is new name the camera was successfully set to!)
+
+
+```
+~ ERR-- Key doesn't exist
+```
+> (Means the program tried to set the key, but was unable to)
+
+
+```
+~ Kite says 'Wot camera?'
+```
+> (Means the program wasn't able to locate the camera in the registry key)
+
+> It will commonly say this if you dont have the virtual camera plugin
+> that adds more cameras (You DO NOT need to have the obs plugin installed for OBS VCam to work)
+
+####Quick questions to ask yourself if you run into issues:
+
+- Do you have the latest version of OBS installed?
+- Do you have the Virtual camera plugin installed?
+- Did the application run as administrator
+
 
 
 
