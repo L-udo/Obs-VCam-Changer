@@ -41,7 +41,7 @@ Future updates
 > It will commonly say this if you dont have the virtual camera plugin
 > that adds more cameras (You DO NOT need to have the obs plugin installed for OBS VCam to work)
 
-####Quick questions to ask yourself if you run into issues:
+####Quick questions to ask yourself if you run into issues####:
 
 - Do you have the latest version of OBS installed?
 - Do you have the Virtual camera plugin installed?
