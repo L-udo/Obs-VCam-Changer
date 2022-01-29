@@ -8,7 +8,9 @@ Future updates
 - Support for multiple cameras from the Obs Virtual camera plugin (**DONE!** Lastest release)
 
 
-# - How to
+# - How to get started
+
+- Download the latest compiled version of Obs-VCam [Here](https://github.com/LudoDash/Obs-VCam-Changer/releases)
 
 - Select a camera to change the name of.
 
