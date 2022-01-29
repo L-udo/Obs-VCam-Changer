@@ -12,8 +12,8 @@ Future updates
 
 # Features:
 ```
-- Support for virtual camera plugin for OBS
-- Support for inbuilt virtual camera on OBS
+- Support for changing virtual camera plugin for OBS's name
+- Support for changing inbuilt virtual camera on OBS's name
 - Gui interface
 - Windows ONLY
 
