@@ -67,7 +67,7 @@ Future updates
 
 
 
-## Camera list
+## Camera list > if you needed any ideas <3
 Logitech HD Pro Webcam C920
 
 Logitech C505
