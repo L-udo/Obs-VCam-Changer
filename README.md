@@ -92,9 +92,11 @@ USB Video Device
 
 > it Will **NOT** function in any manner virtualised in wine or other such applications.
 
-> I will be working towards MacOS & Linux support in the future,
-> but due to the drastically different ways each operating system stores the camera data, I will need to put a bit of reasearch into finding out how to edit it.
-> thankyou
+> I might add MacOS & Linux support in the future,
+> but it't not my top priorety because this was made to solve a problem for using vrchat with webchat applications
+> and vr is not practicle on macos
+> 
+> as for linux, im just lazy lol
 
 > regards
 
