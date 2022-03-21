@@ -94,7 +94,7 @@ USB Video Device
 
 > I might add MacOS & Linux support in the future,
 > but it't not my top priorety because this was made to solve a problem for using vrchat with webchat applications
-> and vr is not practicle on macos
+> and vr is not very usable on macos anyways.
 > 
 > as for linux, im just lazy lol
 
