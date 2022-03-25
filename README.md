@@ -5,9 +5,8 @@ Future updates
 (Oculus virtual Audio Device, Virtual Desktop Audio)
 - Adding numbering to cameras
 
-#### If you need help:
-- Please open a new[Plz only one] issue on github.
-- I dont respond quickly if you contact me via my socials!
+#### Please tell me if the application doesnt work!!!!!!!:
+- open a new issue on this github.
 
 
 # Features:
