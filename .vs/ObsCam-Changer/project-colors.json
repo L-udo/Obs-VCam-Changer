@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4fec9c72-f448-4e90-916f-fc55ab0a680b": {
+      "ProjectGuid": "4fec9c72-f448-4e90-916f-fc55ab0a680b",
+      "DisplayName": "ObsCam-Changer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
