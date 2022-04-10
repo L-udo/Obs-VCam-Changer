@@ -1,0 +1,7 @@
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\Obs_VcamGUI.pdb
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\D3DCompiler_47_cor3.dll
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\PenImc_cor3.dll
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\PresentationNative_cor3.dll
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\vcruntime140_cor3.dll
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\wpfgfx_cor3.dll
+C:\Users\almon\OneDrive\Desktop\OBS_GUI2\SPE\Obs_VcamGUI.exe

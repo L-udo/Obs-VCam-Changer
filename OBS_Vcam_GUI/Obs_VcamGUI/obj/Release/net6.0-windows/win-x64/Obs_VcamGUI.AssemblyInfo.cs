@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.3.3")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.3")]
-[assembly: System.Reflection.AssemblyProductAttribute("Obs_VcamGUI by Ludo & KittyKite")]
+[assembly: System.Reflection.AssemblyProductAttribute("Obs_VcamGUI by Kite 🐾Special Edition🐾")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Obs_VcamGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.3.3.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
