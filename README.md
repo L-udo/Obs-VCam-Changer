@@ -10,7 +10,7 @@ Future updates
 
 ## Download the latest version of Obs_Vcam
 
-### ![Here](https://github.com/LudoDash/Obs-VCam-Changer/releases/download/V1.3.3-Kite_Edition/Obs_VcamGUI1_3_4.hotfix.zip)
+### [Here](https://github.com/LudoDash/Obs-VCam-Changer/releases/download/V1.3.3-Kite_Edition/Obs_VcamGUI1_3_4.hotfix.zip)
 
 # Features:
 ```
