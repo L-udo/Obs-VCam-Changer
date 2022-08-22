@@ -8,6 +8,9 @@ Future updates
 #### Please tell me if the application doesnt work!!!!!!!:
 - open a new issue on this github.
 
+## Download the latest version of Obs_Vcam
+
+### ![Here](https://github.com/LudoDash/Obs-VCam-Changer/releases/download/V1.3.3-Kite_Edition/Obs_VcamGUI1_3_4.hotfix.zip)
 
 # Features:
 ```
