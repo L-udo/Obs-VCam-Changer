@@ -5,6 +5,8 @@ Future updates
 (Oculus virtual Audio Device, Virtual Desktop Audio)
 - Adding numbering to cameras
 
+(by forking this repo you agree to the fork remaining open source!)
+
 #### Please tell me if the application doesnt work!!!!!!!:
 - open a new issue on this github.
 
