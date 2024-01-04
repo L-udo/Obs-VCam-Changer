@@ -1,4 +1,5 @@
 # Obs-VCam-Changer
+### THIS REPO IS NOLONGER MAINTAINED
 ## Please do not DM me regarding issues with this software, that is what the [Issues](https://github.com/L-udo/Obs-VCam-Changer/issues) Tab is for
 ### Obs virtual camera name changer
 Future updates
