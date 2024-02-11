@@ -14,7 +14,7 @@ Future updates
 
 ## Download the latest version
 
-### [Here](https://github.com/LudoDash/Obs-VCam-Changer/releases/download/V1.3.3-Kite_Edition/Obs_VcamGUI1_3_4.hotfix.zip)
+### [Here](https://github.com/L-udo/Obs-VCam-Changer/releases/download/V1.3.3-Kite_Edition/Obs_VcamGUI1_3_4.hotfix.zip)
 
 # Features:
 ```
@@ -102,8 +102,5 @@ USB Video Device
 > but it's not my top priority because this was made to solve a problem for using Chillout vr or Neos with webchat applications
 > and vr is not very usable on macos anyways.
 > 
-> as for linux, im just lazy lol
+> as for linux, im just lazy
 
-> regards
-
-> **Ludo <3**
